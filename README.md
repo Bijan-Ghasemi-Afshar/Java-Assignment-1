@@ -2,7 +2,7 @@
 # UEA
 
 Subject speciﬁc 
-  TestingofbasicprinciplesofJavaprogramming. ImplementationofsomesmallJavaapplications.
+  Testing of basic principles of Java programming. Implementation of some small Java applications.
 
 Subject speciﬁc 
-  Developmentofbasiccompetenceinobjectoriented/algorithmicprogramminginJava, familiarity with the associated concepts and terminology.
+  Development of basic competence in object oriented/algorithmic programming in Java, familiarity with the associated concepts and terminology.
